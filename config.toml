@@ -1,0 +1,35 @@
+baseURL = "https://bravchen.github.io/"
+languageCode = "en-us"
+title = "MrChen"
+theme = "book"
+
+# Code highlight
+# 推荐配色参数: 
+# 深色背景：'fruity' 'dracula' 'solarized-dark'
+# 浅色背景：'autumn' 'friendly' 'manni'
+# 默认：'monokailight'
+# pygmentsStyle = 'monokailight'
+pygmentsStyle = 'solarized-dark'
+
+[params]
+
+  # 设置每个页面的标题显示层级
+  BookToC = 3
+
+  # 设置是否显示博客下 content 下的所有目录，'docs'表示只显示 docs目录，* 表示显示所有目录
+  # BookSection = 'docs'
+  BookSection = '*'
+
+  # 设置时间格式
+  # 英文格式
+  # BookDateFormat = 'Jan 2, 2006'
+  # 中文格式
+  # BookDateFormat = '2006-01-02 03:04:05 PM Z0700'
+  BookDateFormat = '2006-01-02 03:04'
+
+  # 启用搜索文档功能
+  BookSearch = true
+  # BookSearch = false
+
+
+

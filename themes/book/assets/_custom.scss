@@ -1,0 +1,22 @@
+/* You can add custom styles here. */
+
+/* 您可以在此处添加自定义样式。*/
+
+// @import "plugins/numbered";
+
+.container {
+    max-width: 105rem;
+    margin: 0;
+    justify-content: space-between;
+    .book-menu {
+        nav {
+            
+        }
+    }
+    .book-page {
+        max-width: 55rem;
+        margin-left: auto;
+    }
+}
+
+
