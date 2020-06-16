@@ -1,6 +1,9 @@
 ---
 title: "Flex 布局教程：实例篇"
+date: 2020-05-19T22:31:32+08:00
+slug: flex0002
 draft: false
+weight: 2
 ---
 
 作者： [阮一峰](http://www.ruanyifeng.com/)

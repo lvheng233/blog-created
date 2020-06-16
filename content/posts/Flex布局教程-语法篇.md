@@ -1,8 +1,9 @@
 ---
-title: "Flex布局教程：语法篇"
+title: "Flex 布局教程：语法篇"
 date: 2020-05-19T21:38:35+08:00
-slug: 6939a59d
+slug: flex0001
 draft: false
+weight: 1
 ---
 
 
